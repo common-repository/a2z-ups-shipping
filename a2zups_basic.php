@@ -4,7 +4,7 @@
  * Plugin Name:  UPS Rates & Labels
  * Plugin URI: https://a2zplugins.com/product/ups-express-shipping-with-label-printing/
  * Description: Realtime Shipping Rates, Shipping label, commercial invoice automation included.
- * Version: 4.3.2
+ * Version: 4.3.3
  * Author: Shipi
  * Author URI: https://myshipi.com/
  * Developer: aarsiv
